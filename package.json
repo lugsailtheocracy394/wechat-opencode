@@ -1,6 +1,6 @@
 {
   "name": "wechat-opencode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Chat with OpenCode from WeChat - a WeChat bridge for local OpenCode",
   "type": "module",
   "bin": {
